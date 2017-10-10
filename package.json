@@ -6,11 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "react-native"
-  ],
-  "author": "",
-  "license": "",
+  "keywords": ["react-native"],
+  "author": "nicolaslopezj",
+  "license": "MIT",
   "peerDependencies": {
     "moment": "^2.18.1",
     "numeral": "^2.0.6",
