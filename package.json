@@ -1,20 +1,22 @@
 {
   "name": "react-native-orionsoft-parts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["react-native"],
+  "keywords": [
+    "react-native"
+  ],
   "author": "",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.48.0",
-    "react-apollo-decorators": "^1.4.12",
-    "react-native-modal-datetime-picker": "^4.11.0",
-    "simple-react-form": "^2.0.1",
     "moment": "^2.18.1",
-    "numeral": "^2.0.6"
+    "numeral": "^2.0.6",
+    "react-apollo-decorators": "^1.4.12",
+    "react-native": "^0.48.0",
+    "react-native-modal-datetime-picker": "^4.11.0",
+    "simple-react-form": "^2.0.1"
   }
 }
