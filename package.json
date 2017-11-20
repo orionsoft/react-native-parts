@@ -1,6 +1,6 @@
 {
   "name": "react-native-orionsoft-parts",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,11 @@
     "react-native": "^0.48.0",
     "react-native-modal-datetime-picker": "^4.11.0",
     "simple-react-form": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint-config-orionsoft": "^1.2.7"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.140.0"
   }
 }
